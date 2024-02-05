@@ -364,3 +364,4 @@ The official provides two representative sample extensions for reference, which 
 - [github-release-sample](https://github.com/GopeedLab/gopeed-extension-samples/tree/main/github-release-sample)
 
   This extension is a `pure js` project without any dependencies, suitable for simple development requirements. It uses `fetch` to implement network requests to obtain the list of files that need to be downloaded.
+  
